@@ -2,7 +2,19 @@
 <img width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
 </div>
 
-# GraphQL Playground Repo
+# GraphQL Playground Repo for Babies
+
+## Purpose
+
+There are two things that GraphQL should resolve in the HTTP requests environment
+
+### Over Fetching
+
+It happens when you need specific data, but the request to the resource that you need retrieves much more than you actually needed.
+
+### Under Fetching
+
+When you need more metadata, or, related data than the actual content that is being returned on the request.
 
 ## Tips discovered during the development
 
