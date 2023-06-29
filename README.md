@@ -4,7 +4,7 @@
 
 # GraphQL Playground Repo for Babies
 
-## Purpose
+## GraphQL Purpose
 
 There are two things that GraphQL should resolve in the HTTP requests environment
 
@@ -18,7 +18,7 @@ When you need more metadata, or, related data than the actual content that is be
 
 ## Tips discovered during the development
 
-- Install the VS Code extension for `gql` typing format;
+- Install the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) for `gql` typing format;
 - If you try to install only one dependency, and then another dependency that depends on the latest, you may have compatibility issues, but trying to install them on the same command, they will resolve their compatible versions;
 - You can use `node:{dependency}` to import deps from node native modules;
 
