@@ -1,3 +1,7 @@
+<div style="display:flex;flex:1;justify-content:center;">
+<img width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">
+</div>
+
 # GraphQL Playground Repo
 
 ## Tips discovered during the development
